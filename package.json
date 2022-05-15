@@ -1,0 +1,20 @@
+{
+  "name": "cc-topdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akmuzaini/cc-topdown.git"
+  },
+  "keywords": [],
+  "author": "Abdulrahman Al-Muzaini, 441004887",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akmuzaini/cc-topdown/issues"
+  },
+  "homepage": "https://github.com/akmuzaini/cc-topdown#readme"
+}
